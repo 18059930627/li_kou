@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9765ebcc-4194-4303-9ca8-d7e41c6a793a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/META-INF/li_kou.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day1/Demo$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day1/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day2/CAS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day2/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day2/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day3/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day3/MyException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day4/Demo$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day4/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day5/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day5/Demo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day5/Demo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day6/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day7/Demo$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day7/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/li_kou/com/czj/day8/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day1/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day2/CAS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day2/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day3/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day3/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day4/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day5/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day5/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day5/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day6/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day7/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day8/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/czj/day9/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czj/day9/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/czj/day9/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +140,7 @@
       <workItem from="1600247538450" duration="46626000" />
       <workItem from="1600652189329" duration="24343000" />
       <workItem from="1600825661431" duration="6991000" />
-      <workItem from="1602583373809" duration="6818000" />
+      <workItem from="1602583373809" duration="11267000" />
     </task>
     <servers />
   </component>
